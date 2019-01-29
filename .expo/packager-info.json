@@ -1,0 +1,9 @@
+{
+  "expoServerPort": 19000,
+  "expoServerNgrokUrl": "https://7g-jsu.myshoperoo.ayushyanew.exp.direct",
+  "packagerNgrokUrl": "https://packager.7g-jsu.myshoperoo.ayushyanew.exp.direct",
+  "ngrokPid": 5508,
+  "packagerPort": null,
+  "packagerPid": null,
+  "devToolsPort": 19002
+}

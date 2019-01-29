@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "171301071937",
+    "firebase_url": "https://ayushyaaclinic.firebaseio.com",
+    "project_id": "ayushyaaclinic",
+    "storage_bucket": "ayushyaaclinic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171301071937:android:9b90e1eb8156c9d9",
+        "android_client_info": {
+          "package_name": "com.ideesys.ayushyaclinic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171301071937-6a0q5e7cvfq0p33271982h4o8h7on8a3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5kDkrr2nsRs-g_5eK74W2I6n7cr8UYa4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
